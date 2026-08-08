@@ -2,8 +2,6 @@
 Power BI dashboard analyzing Starbucks beverages based on calories, sugar, caffeine, beverage categories, and product distribution.
 
 
-# Starbucks Beverage Analysis Dashboard
-
 ## Project Overview
 
 This project is an interactive **Starbucks Beverage & Nutrition Analysis Dashboard** developed using **Microsoft Power BI**. The dashboard analyzes Starbucks beverage data based on calories, sugar, caffeine, beverage categories, and product distribution.
